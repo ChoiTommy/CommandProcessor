@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e65ed05-286b-4560-82b9-0da28bf4345f" name="Changes" comment="Initial commit">
+    <list default="true" id="0e65ed05-286b-4560-82b9-0da28bf4345f" name="Changes" comment="v02">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Command.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Input.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
@@ -12,6 +14,13 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -38,7 +47,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "discord-application",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -54,7 +63,12 @@
       <workItem from="1678287521457" duration="42000" />
       <workItem from="1678287568787" duration="93000" />
       <workItem from="1678288772485" duration="39000" />
-      <workItem from="1678369082117" duration="764000" />
+      <workItem from="1678369082117" duration="1645000" />
+      <workItem from="1678373842505" duration="83000" />
+      <workItem from="1678460082494" duration="24000" />
+      <workItem from="1678460131776" duration="29000" />
+      <workItem from="1678513516780" duration="14000" />
+      <workItem from="1678513586357" duration="2921000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1678287252989</created>
@@ -63,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678287252989</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="v02">
+      <created>1678369866955</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678369866955</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,6 +92,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="v02" />
+    <option name="LAST_COMMIT_MESSAGE" value="v02" />
   </component>
 </project>
